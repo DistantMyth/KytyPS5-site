@@ -10,9 +10,4 @@ hardware: "AMD Ryzen 7 7700X / AMD Radeon 9070 XT"
 
 Game boots. Select new game, cutscene begins to play, then crashes.
 
-**Steps to reproduce:** Open Emulator Boot game Select New Game Cutscene plays, then crashes.
-
-**Extra notes:** Default settings. Low frame rate and audio stuttering/cutting in and out.
-
-> Source: [KytyPS5 issue #186](https://github.com/KytyPS5/KytyPS5/issues/186)
-
+> Source: [GitHub compatibility report #1](https://github.com/DistantMyth/KytyPS5-site/issues/1)
